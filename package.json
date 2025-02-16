@@ -2,6 +2,7 @@
   "name": "comp2156",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://101488083.github.io/comp2156",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
